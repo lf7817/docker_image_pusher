@@ -9,3 +9,4 @@
 --platform=linux/x86_64 emqx:5.0.26
 --platform=linux/x86_64 postgres:13.5-alpine
 --platform=linux/x86_64 redis:7.0.11-alpine
+--platform=linux/x86_64 gplane/pnpm:9-node18-alpine
